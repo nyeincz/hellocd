@@ -20,3 +20,5 @@ public class HellocdApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HellocdApplication.class, args);
 	}
+
+}
